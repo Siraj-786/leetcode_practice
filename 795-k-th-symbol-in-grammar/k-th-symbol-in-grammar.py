@@ -8,13 +8,13 @@ class Solution:
             if k1 == n:
                 return num
             if left <= k <= m:
-                if num[0] == '0':
+                if num== '0':
                     return bit_place("0", left, m, k1 + 1)
                 else:
                     return  bit_place("1", left, m, k1 + 1)
 
             else:
-                if num[-1] == "0":
+                if num== "0":
                     return bit_place("1", m + 1, right, k1 + 1)
                 else:
                     return bit_place("0", m + 1, right, k1 + 1)
