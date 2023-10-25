@@ -19,4 +19,4 @@ class Solution:
                 else:
                     return bit_place("0", m + 1, right, k1 + 1)
 
-        return int(bit_place("0", 1, 2 ** (n - 1), 0))
+        return int(bit_place("0", 1, 2 ** (n - 1), 1))
