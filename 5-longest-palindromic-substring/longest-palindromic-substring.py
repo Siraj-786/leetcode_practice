@@ -1,21 +1,46 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        def check(i, j):
-            left = i
-            right = j - 1
+        # two pointers kind off 
+        mini_len_found=1
+        ans=s[0]
+        def check_odd(p):
+            a,b=p,p
             
-            while left < right:
-                if s[left] != s[right]:
-                    return False
-                
-                left += 1
-                right -= 1
+            while a>0 and b<len(s)-1:
+                a-=1 
+                b+=1
+                if s[a]!=s[b] :
+                    a+=1 
+                    b-=1 
+                    break
+            return s[a:b+1]
+        def check_even(a,b):
+            if s[a]!=s[b] :
+                return s[a]
             
-            return True
-        
-        for length in range(len(s), 0, -1):
-            for start in range(len(s) - length + 1):
-                if check(start, start + length):
-                    return s[start:start + length]
+            while a>0 and b<len(s)-1 :
+                a-=1
+                b+=1 
+                if s[a]!=s[b] :
+                    a+=1
+                    b-=1 
+                    break
+            return s[a:b+1]
+        for i in range(len(s)-1):
+            # for odd len 
+            centre=i 
+            ch_odd=check_odd(i)
+            if len(ch_odd)>mini_len_found :
+                mini_len_found=len(ch_odd)
+                ans=ch_odd
+            ch_even=check_even(i,i+1)
+            print(ch_even)
+            if len(ch_even)>mini_len_found :
+                mini_len_found=len(ch_even)
+                ans=ch_even 
+        return ans
 
-        return ""
+
+
+            
+
