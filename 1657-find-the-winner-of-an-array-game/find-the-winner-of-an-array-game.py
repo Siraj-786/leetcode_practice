@@ -14,7 +14,6 @@ class Solution:
                 arr.append(p)
             if c==k :
                 return arr[0]
-            print(c)
         return arr[0]
 
 
