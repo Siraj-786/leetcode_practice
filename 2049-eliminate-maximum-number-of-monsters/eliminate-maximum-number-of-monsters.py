@@ -1,9 +1,6 @@
 class Solution:
     def eliminateMaximum(self, dist: List[int], speed: List[int]) -> int:
-        arrival = []
-        for i in range(len(dist)):
-            arrival.append(dist[i] / speed[i])
-        
+        arrival = [dist[i] / speed[i] for i in range(len(speed))]
         arrival.sort()
         ans = 0
 
