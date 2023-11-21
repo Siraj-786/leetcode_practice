@@ -12,6 +12,6 @@ class Solution:
         for num in nums:
             d[num - reverse_int(num)] += 1
         ans = 0
-        for key in d:
-            ans += (d[key] * (d[key] - 1)) // 2
+        for v in d.values():
+            ans += (v * (v - 1)) // 2
         return ans % (10 ** 9 + 7)
