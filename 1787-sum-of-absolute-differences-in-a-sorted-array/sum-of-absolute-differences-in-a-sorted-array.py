@@ -3,10 +3,8 @@ class Solution:
         s=sum(nums)
         ans=[]
         prev_sum=0
-        l=len(nums)
         for i in range(len(nums)):
-            ans.append(abs(s-nums[i]*l)+abs(prev_sum-nums[i]*(len(nums)-l)))
-            l-=1
+            ans.append(abs(s-nums[i]*(len(nums)-i))+abs(prev_sum-nums[i]*(i)))
             s-=nums[i]
             prev_sum+=nums[i]
         return ans
