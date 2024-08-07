@@ -16,7 +16,7 @@ class Solution:
             # k+=1 
             # if k>10 :
             #     break
-            print(i,j)
+            # print(i,j)
 
             
         
