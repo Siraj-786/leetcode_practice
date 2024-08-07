@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0015-3sum) |
 | [0152-maximum-product-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siraj-786/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0416-partition-equal-subset-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0518-coin-change-ii) |
@@ -71,4 +72,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siraj-786/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siraj-786/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
