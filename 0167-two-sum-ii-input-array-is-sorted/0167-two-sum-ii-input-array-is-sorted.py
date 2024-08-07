@@ -1,12 +1,22 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
 
-        for i in range(1,len(numbers)):
-            # print(numbers[0:i])
-            ind=bisect.bisect_left(numbers[0:i],target-numbers[i])
-            # print(ind)
-            if target-numbers[i]==numbers[ind] and i!=ind:
-                return [ind+1,i+1]
+        i=0
+        j=len(numbers)-1 
+        # k=0
+        while i<j :
+            now=numbers[i]+numbers[j]
+            # print(now)
+            if now==target :
+                return [i+1,j+1]
+            elif now>target :
+                j-=1 
+            else :
+                i+=1 
+            # k+=1 
+            # if k>10 :
+            #     break
+            print(i,j)
 
             
         
