@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0518-coin-change-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Siraj-786/leetcode_practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
 | [1511-count-number-of-teams](https://github.com/Siraj-786/leetcode_practice/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Siraj-786/leetcode_practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Siraj-786/leetcode_practice/tree/master/0056-merge-intervals) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Siraj-786/leetcode_practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Siraj-786/leetcode_practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -79,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siraj-786/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Siraj-786/leetcode_practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siraj-786/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Siraj-786/leetcode_practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Math
 |  |
 | ------- |
