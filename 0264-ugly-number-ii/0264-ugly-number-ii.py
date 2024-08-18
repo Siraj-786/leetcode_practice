@@ -2,7 +2,7 @@ class Solution:
     def nthUglyNumber(self, n: int) -> int:
         l1=set()    
         l1.add(1)
-        while len(l1)<=5690:
+        while len(l1)<=4990:
             for ele in list(l1):
                 l1.add(ele*2)
                 l1.add(ele*3)
