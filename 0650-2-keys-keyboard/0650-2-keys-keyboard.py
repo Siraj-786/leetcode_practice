@@ -3,7 +3,7 @@ class Solution:
         dp=[float('inf')]*n
         dp[0]=0
         for i in range(1,n):
-            for j in range(i):
+            for j in range((i+1)//2):
                 l=j+1
                 diff=i-j
                 if diff%l==0 :
