@@ -1,5 +1,3 @@
-select * from Patients
-where conditions regexp '\\bDIAB1';
-
-
--- THERE ARE THINGS OT BE KNOWN
+select * from 
+Patients
+where conditions like 'DIAB1%' or conditions like '% DIAB1%';
