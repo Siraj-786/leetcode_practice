@@ -18,6 +18,7 @@ select u.name,count(distinct movie_id) as no_of from
 union  all
 
 select t.t1 as results from 
+
 (select avg(m1.rating) as av,m2.title as t1  from 
     MovieRating as m1
     left join 
