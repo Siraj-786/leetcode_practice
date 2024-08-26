@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/Siraj-786/leetcode_practice/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/Siraj-786/leetcode_practice/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/Siraj-786/leetcode_practice/tree/master/1258-article-views-i) |
+| [1278-product-price-at-a-given-date](https://github.com/Siraj-786/leetcode_practice/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/Siraj-786/leetcode_practice/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/Siraj-786/leetcode_practice/tree/master/1317-monthly-transactions-i) |
