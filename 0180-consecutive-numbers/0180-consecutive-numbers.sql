@@ -1,5 +1,6 @@
 # Write your MySQL query statement below
--- select l1.id as a,l1.num as n1 
+###
+# this is mine worst solution
 select distinct t.num as  ConsecutiveNums from (select * from (
     select l1.id as a,l1.num as n1,l2.id as b,l2.num as n2
     from Logs as l1 
