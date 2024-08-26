@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Siraj-786/leetcode_practice/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Siraj-786/leetcode_practice/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/Siraj-786/leetcode_practice/tree/master/1942-primary-department-for-each-employee) |
+| [2057-count-salary-categories](https://github.com/Siraj-786/leetcode_practice/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Siraj-786/leetcode_practice/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Siraj-786/leetcode_practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Tree
