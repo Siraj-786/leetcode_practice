@@ -25,12 +25,10 @@ class Solution:
                         if neighbor not in visited:
                             stack.append(neighbor)
         
-        # Counting connected components
         components = 0
         for x, y in stones:
             if x not in visited:
                 dfs(x)
                 components += 1
         
-        # The number of stones that can be removed is total stones minus the number of connected components
         return len(stones) - components
