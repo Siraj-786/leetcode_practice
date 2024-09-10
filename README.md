@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Siraj-786/leetcode_practice/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Siraj-786/leetcode_practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -229,9 +230,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Siraj-786/leetcode_practice/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Siraj-786/leetcode_practice/tree/master/2411-spiral-matrix-iv) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Siraj-786/leetcode_practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Siraj-786/leetcode_practice/tree/master/0322-coin-change) |
 | [1484-linked-list-in-binary-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/1484-linked-list-in-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Siraj-786/leetcode_practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
