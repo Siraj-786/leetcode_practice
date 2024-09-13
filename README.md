@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Siraj-786/leetcode_practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siraj-786/leetcode_practice/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1511-count-number-of-teams](https://github.com/Siraj-786/leetcode_practice/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Siraj-786/leetcode_practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siraj-786/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siraj-786/leetcode_practice/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
