@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Siraj-786/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/Siraj-786/leetcode_practice/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0539-minimum-time-difference](https://github.com/Siraj-786/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siraj-786/leetcode_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Siraj-786/leetcode_practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0001-two-sum) |
+| [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siraj-786/leetcode_practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Siraj-786/leetcode_practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -273,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Siraj-786/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
