@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Siraj-786/leetcode_practice/tree/master/0179-largest-number) |
 | [0322-coin-change](https://github.com/Siraj-786/leetcode_practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Siraj-786/leetcode_practice/tree/master/0539-minimum-time-difference) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0264-ugly-number-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siraj-786/leetcode_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Siraj-786/leetcode_practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/Siraj-786/leetcode_practice/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siraj-786/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Siraj-786/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Siraj-786/leetcode_practice/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Rolling Hash
 |  |
 | ------- |
