@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Siraj-786/leetcode_practice/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Siraj-786/leetcode_practice/tree/master/0214-shortest-palindrome) |
+| [0402-remove-k-digits](https://github.com/Siraj-786/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0539-minimum-time-difference](https://github.com/Siraj-786/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0676-implement-magic-dictionary](https://github.com/Siraj-786/leetcode_practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Siraj-786/leetcode_practice/tree/master/0677-map-sum-pairs) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Siraj-786/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Siraj-786/leetcode_practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Siraj-786/leetcode_practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Siraj-786/leetcode_practice/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Siraj-786/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/Siraj-786/leetcode_practice/tree/master/0624-maximum-distance-in-arrays) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -340,5 +343,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Siraj-786/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
