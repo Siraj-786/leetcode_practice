@@ -1,5 +1,8 @@
 class MagicDictionary:
 
+
+    # code by siraj_786 
+
     def __init__(self):
         self.trie=defaultdict()
         
