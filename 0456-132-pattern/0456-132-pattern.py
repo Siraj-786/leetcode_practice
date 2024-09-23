@@ -1,5 +1,8 @@
 class Solution:
     def find132pattern(self, nums: List[int]) -> bool:
+
+        # worst of efforts without studying question
+
         if len(nums)<3 :
             return False 
 
