@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Siraj-786/leetcode_practice/tree/master/0056-merge-intervals) |
+| [0139-word-break](https://github.com/Siraj-786/leetcode_practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siraj-786/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Siraj-786/leetcode_practice/tree/master/0179-largest-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Siraj-786/leetcode_practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Siraj-786/leetcode_practice/tree/master/0322-coin-change) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Siraj-786/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Siraj-786/leetcode_practice/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Siraj-786/leetcode_practice/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Siraj-786/leetcode_practice/tree/master/0214-shortest-palindrome) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/Siraj-786/leetcode_practice/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Siraj-786/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Siraj-786/leetcode_practice/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Siraj-786/leetcode_practice/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -301,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Siraj-786/leetcode_practice/tree/master/0214-shortest-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Siraj-786/leetcode_practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
