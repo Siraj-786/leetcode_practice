@@ -1,21 +1,24 @@
-
-
-
-from typing import List
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        ans=[]
-        def rec(arr,i,s):
-            print(arr)
-            if s==target:
-                ans.append(arr)
-                return
+        ans=set()
 
-            if i>=len(candidates):
+
+        def rec(arr,target):
+            if sum(arr)==target :
+                arr.sort()
+                ans.add(tuple(arr))
                 return
-            if s+candidates[i]<=target:
-                # rec(arr+[candidates[i]],i+1,s+candidates[i])
-                rec(arr+[candidates[i]],i,s+candidates[i])
-            rec(arr,i+1,s)
-        rec([],0,0)
-        return ans
+            elif sum(arr)>target :
+                return 
+            else :
+                for i in range(len(candidates)):
+                    arr.append(candidates[i])
+                    rec(arr.copy(),target)
+                    arr.pop(-1)
+            return 
+        rec([],target)
+
+        return [list(i) for i in ans]
+            
+
+        
