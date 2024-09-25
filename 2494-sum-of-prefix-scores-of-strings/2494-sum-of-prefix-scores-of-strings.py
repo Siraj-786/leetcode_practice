@@ -1,5 +1,8 @@
 class Solution:
     def sumPrefixScores(self, words: List[str]) -> List[int]:
+
+        # single run and single submittion 
+        # code by siraj 
         trie=defaultdict()
         def insert(word):
             curr=trie 
