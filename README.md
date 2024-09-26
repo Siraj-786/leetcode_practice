@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Siraj-786/leetcode_practice/tree/master/0056-merge-intervals) |
 | [0139-word-break](https://github.com/Siraj-786/leetcode_practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/0152-maximum-product-subarray) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0494-target-sum) |
 ## Sliding Window
 |  |
