@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0432-all-oone-data-structure](https://github.com/Siraj-786/leetcode_practice/tree/master/0432-all-oone-data-structure) |
 | [0454-4sum-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0454-4sum-ii) |
 | [0676-implement-magic-dictionary](https://github.com/Siraj-786/leetcode_practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Siraj-786/leetcode_practice/tree/master/0677-map-sum-pairs) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0432-all-oone-data-structure](https://github.com/Siraj-786/leetcode_practice/tree/master/0432-all-oone-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/Siraj-786/leetcode_practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Siraj-786/leetcode_practice/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Siraj-786/leetcode_practice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Siraj-786/leetcode_practice/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Siraj-786/leetcode_practice/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Siraj-786/leetcode_practice/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/1484-linked-list-in-binary-tree) |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Siraj-786/leetcode_practice/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Siraj-786/leetcode_practice/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
