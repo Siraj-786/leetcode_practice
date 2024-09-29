@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Siraj-786/leetcode_practice/tree/master/0060-permutation-sequence) |
 | [0264-ugly-number-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/Siraj-786/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/Siraj-786/leetcode_practice/tree/master/0650-2-keys-keyboard) |
@@ -381,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Siraj-786/leetcode_practice/tree/master/0432-all-oone-data-structure) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Siraj-786/leetcode_practice/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
