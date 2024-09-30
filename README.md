@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siraj-786/leetcode_practice/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Siraj-786/leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Siraj-786/leetcode_practice/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Siraj-786/leetcode_practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siraj-786/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Siraj-786/leetcode_practice/tree/master/0456-132-pattern) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Siraj-786/leetcode_practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Siraj-786/leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Siraj-786/leetcode_practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/Siraj-786/leetcode_practice/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Siraj-786/leetcode_practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Siraj-786/leetcode_practice/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Siraj-786/leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
