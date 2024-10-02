@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Siraj-786/leetcode_practice/tree/master/0720-longest-word-in-dictionary) |
 | [0859-design-circular-deque](https://github.com/Siraj-786/leetcode_practice/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
+| [1256-rank-transform-of-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siraj-786/leetcode_practice/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Siraj-786/leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siraj-786/leetcode_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Siraj-786/leetcode_practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1256-rank-transform-of-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Siraj-786/leetcode_practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Siraj-786/leetcode_practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siraj-786/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Siraj-786/leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Siraj-786/leetcode_practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/Siraj-786/leetcode_practice/tree/master/0720-longest-word-in-dictionary) |
+| [1256-rank-transform-of-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Siraj-786/leetcode_practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
