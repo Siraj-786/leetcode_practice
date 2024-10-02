@@ -4,21 +4,16 @@ class Solution:
         trie=defaultdict()
         def insert(word):
             curr=trie 
-            f=False 
             for w in word :
                 if w in curr :
                     curr=curr[w]
-                    f=True
-
                 else :
                     curr[w]=defaultdict()
                     curr=curr[w]
-            curr["*"]=f
+            curr["*"]=True
         for c in words :
             insert(c[::-1])
         ans=[]
-
-
         for ele in words :
             dp=[1]+[0]*len(ele)
             for i in range(len(ele)):
@@ -30,7 +25,6 @@ class Solution:
                             dp[i+1]=max(dp[i+1],1+dp[j-1])
                     else :
                         break 
-            print(dp)
             if dp[-1]>1 :
                 ans.append(ele)
 
