@@ -3,8 +3,6 @@ from typing import List
 
 class Solution:
     def findAllConcatenatedWordsInADict(self, words: List[str]) -> List[str]:
-        # Sort the list of words
-        words.sort()
         
         # Create a trie structure
         trie = defaultdict(dict)
