@@ -18,7 +18,8 @@ class Solution:
         diffs=new_diffs
         suff_max=[prices[-1]]
         for i in range(len(prices)-2,-1,-1):
-            suff_max.insert(0,max(suff_max[0],prices[i]))
+            suff_max.append(max(suff_max[-1],prices[i]))
+        suff_max=suff_max[::-1]
         max_ans=0
         for i in range(1,len(prices)):
             max_ans=max(max_ans,diffs[i-1]+suff_max[i]-prices[i])
