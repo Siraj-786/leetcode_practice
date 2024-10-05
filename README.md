@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Siraj-786/leetcode_practice/tree/master/0087-scramble-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siraj-786/leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0132-palindrome-partitioning-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Siraj-786/leetcode_practice/tree/master/0014-longest-common-prefix) |
+| [0087-scramble-string](https://github.com/Siraj-786/leetcode_practice/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Siraj-786/leetcode_practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0140-word-break-ii) |
