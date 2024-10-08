@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siraj-786/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Siraj-786/leetcode_practice/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0212-word-search-ii) |
+| [0239-sliding-window-maximum](https://github.com/Siraj-786/leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Siraj-786/leetcode_practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Siraj-786/leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Siraj-786/leetcode_practice/tree/master/0567-permutation-in-string) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siraj-786/leetcode_practice/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Siraj-786/leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0692-top-k-frequent-words](https://github.com/Siraj-786/leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Siraj-786/leetcode_practice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Siraj-786/leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Siraj-786/leetcode_practice/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
@@ -460,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Siraj-786/leetcode_practice/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Siraj-786/leetcode_practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
