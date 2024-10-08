@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Siraj-786/leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Siraj-786/leetcode_practice/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siraj-786/leetcode_practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siraj-786/leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Siraj-786/leetcode_practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siraj-786/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Siraj-786/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Siraj-786/leetcode_practice/tree/master/0456-132-pattern) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Siraj-786/leetcode_practice/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siraj-786/leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Siraj-786/leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Siraj-786/leetcode_practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Siraj-786/leetcode_practice/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Siraj-786/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/Siraj-786/leetcode_practice/tree/master/0624-maximum-distance-in-arrays) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siraj-786/leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
