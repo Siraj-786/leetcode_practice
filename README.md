@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/Siraj-786/leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Siraj-786/leetcode_practice/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Siraj-786/leetcode_practice/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0454-4sum-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0454-4sum-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Siraj-786/leetcode_practice/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Siraj-786/leetcode_practice/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Siraj-786/leetcode_practice/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/0494-target-sum) |
