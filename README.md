@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Siraj-786/leetcode_practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Siraj-786/leetcode_practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Siraj-786/leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2601-number-of-great-partitions](https://github.com/Siraj-786/leetcode_practice/tree/master/2601-number-of-great-partitions) |
 | [2727-number-of-senior-citizens](https://github.com/Siraj-786/leetcode_practice/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Siraj-786/leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Siraj-786/leetcode_practice/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Siraj-786/leetcode_practice/tree/master/0650-2-keys-keyboard) |
 | [1511-count-number-of-teams](https://github.com/Siraj-786/leetcode_practice/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Siraj-786/leetcode_practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2601-number-of-great-partitions](https://github.com/Siraj-786/leetcode_practice/tree/master/2601-number-of-great-partitions) |
 | [2755-extra-characters-in-a-string](https://github.com/Siraj-786/leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Siraj-786/leetcode_practice/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Binary Indexed Tree
