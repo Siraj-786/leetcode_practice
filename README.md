@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Siraj-786/leetcode_practice/tree/master/0720-longest-word-in-dictionary) |
 | [0859-design-circular-deque](https://github.com/Siraj-786/leetcode_practice/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
+| [1002-maximum-width-ramp](https://github.com/Siraj-786/leetcode_practice/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siraj-786/leetcode_practice/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Siraj-786/leetcode_practice/tree/master/0456-132-pattern) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Siraj-786/leetcode_practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siraj-786/leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Siraj-786/leetcode_practice/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Siraj-786/leetcode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siraj-786/leetcode_practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Siraj-786/leetcode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Siraj-786/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Siraj-786/leetcode_practice/tree/master/0456-132-pattern) |
+| [1002-maximum-width-ramp](https://github.com/Siraj-786/leetcode_practice/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Ordered Set
 |  |
