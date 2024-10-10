@@ -1,19 +1,23 @@
 class Solution:
     def maxWidthRamp(self, nums: List[int]) -> int:
-        n = len(nums)
-        indices = [i for i in range(n)]
 
-        # Sort indices based on corresponding values in nums and ensure stability
-        indices.sort(key=lambda i: (nums[i], i))
 
-        min_index = indices[0]  # Minimum index encountered so far
-        max_width = 0
-        print(indices)
+        dec=[nums[0]]
+        ind=[0]
+        ans=0
+        for i in range(1,len(nums)):
+            if nums[i]<dec[-1] :
+                ind.append(i)
+                dec.append(nums[i])
+        for j in range(len(nums)-1,-1,-1) :
+            while dec and dec[-1]<=nums[j] :
+                ans=max(ans,j-ind[-1])
+                ind.pop(-1)
+                dec.pop(-1)
+        return ans 
 
-        # Calculate maximum width ramp
-        for i in indices:
-            max_width = max(max_width, i - min_index)
-            min_index = min(min_index, i)
-            print(i,min_index)
 
-        return max_width
+
+        
+            
+        
