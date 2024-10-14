@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Siraj-786/leetcode_practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Siraj-786/leetcode_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2601-number-of-great-partitions](https://github.com/Siraj-786/leetcode_practice/tree/master/2601-number-of-great-partitions) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Siraj-786/leetcode_practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Siraj-786/leetcode_practice/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Siraj-786/leetcode_practice/tree/master/2755-extra-characters-in-a-string) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Siraj-786/leetcode_practice/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siraj-786/leetcode_practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Siraj-786/leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Siraj-786/leetcode_practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Siraj-786/leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Siraj-786/leetcode_practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Siraj-786/leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Siraj-786/leetcode_practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Binary Tree
 |  |
 | ------- |
