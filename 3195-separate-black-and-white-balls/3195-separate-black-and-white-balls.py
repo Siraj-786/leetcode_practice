@@ -1,7 +1,5 @@
 class Solution:
     def minimumSteps(self, s: str) -> int:
-        ans=0
-        o=s.count("1")
         a1=0
         a2=0
         k=len(s)-1
