@@ -20,7 +20,7 @@ class Solution:
                         nums[i]=nums[i]-s[k] 
                         break 
                 break 
-        print(nums)
+        # print(nums)
         if nums[0]<=0 :
             return False 
         return nums==sorted(nums) and len(set(nums))==len(nums)
