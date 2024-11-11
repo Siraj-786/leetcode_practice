@@ -23,6 +23,6 @@ class Solution:
         # print(nums)
         if nums[0]<=0 :
             return False 
-        return nums==sorted(nums) and len(set(nums))==len(nums)
+        return nums==sorted(nums) 
 
         
