@@ -12,7 +12,7 @@ class Solution:
         prefix=[val[0]]
         for i in range(1,len(val)):
             prefix.append(max(prefix[-1],val[i]))
-        print(prefix)
+        # print(prefix)
         ans=[]
         for i in range(len(queries)):
             ind=bisect.bisect_right(s,queries[i])
