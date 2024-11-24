@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Siraj-786/leetcode_practice/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Siraj-786/leetcode_practice/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Siraj-786/leetcode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2089-maximum-matrix-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/2089-maximum-matrix-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siraj-786/leetcode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Siraj-786/leetcode_practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siraj-786/leetcode_practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2089-maximum-matrix-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/2089-maximum-matrix-sum) |
 | [2487-optimal-partition-of-string](https://github.com/Siraj-786/leetcode_practice/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Siraj-786/leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Siraj-786/leetcode_practice/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Siraj-786/leetcode_practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Siraj-786/leetcode_practice/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Siraj-786/leetcode_practice/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Siraj-786/leetcode_practice/tree/master/2411-spiral-matrix-iv) |
 ## Database
