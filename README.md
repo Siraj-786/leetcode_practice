@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Siraj-786/leetcode_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Siraj-786/leetcode_practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/Siraj-786/leetcode_practice/tree/master/0720-longest-word-in-dictionary) |
+| [0787-sliding-puzzle](https://github.com/Siraj-786/leetcode_practice/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Siraj-786/leetcode_practice/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
 | [1002-maximum-width-ramp](https://github.com/Siraj-786/leetcode_practice/tree/master/1002-maximum-width-ramp) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/0212-word-search-ii) |
+| [0787-sliding-puzzle](https://github.com/Siraj-786/leetcode_practice/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Siraj-786/leetcode_practice/tree/master/0870-magic-squares-in-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Siraj-786/leetcode_practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Siraj-786/leetcode_practice/tree/master/1972-rotating-the-box) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Siraj-786/leetcode_practice/tree/master/0322-coin-change) |
+| [0787-sliding-puzzle](https://github.com/Siraj-786/leetcode_practice/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/Siraj-786/leetcode_practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
