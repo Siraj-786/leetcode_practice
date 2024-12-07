@@ -12,13 +12,13 @@ class Solution:
         l,r=1,10**9
         while l<=r :
             m=(l+r)//2
-            a,b=l,r 
+            # a,b=l,r 
             if no_of_piles(candies,m)>=k :
                 l=m +1
             else :
                 r=m-1 
-            if l==a and r==b :
-                break 
+            # if l==a and r==b :
+            #     break 
         return r 
 
         
