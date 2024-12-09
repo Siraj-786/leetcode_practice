@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/special-array-ii">Special Array II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>An array is considered <strong>special</strong> if every pair of its adjacent elements contains two numbers with different parity.</p>
+<h2><a href="https://leetcode.com/problems/special-array-ii">3427. Special Array II</a></h2><h3>Medium</h3><hr><p>An array is considered <strong>special</strong> if every pair of its adjacent elements contains two numbers with different parity.</p>
 
 <p>You are given an array of integer <code>nums</code> and a 2D integer matrix <code>queries</code>, where for <code>queries[i] = [from<sub>i</sub>, to<sub>i</sub>]</code> your task is to check that <span data-keyword="subarray">subarray</span> <code>nums[from<sub>i</sub>..to<sub>i</sub>]</code> is <strong>special</strong> or not.</p>
 
