@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree">2567. Closest Nodes Queries in a Binary Search Tree</a></h2><h3>Medium</h3><hr><p>You are given the <code>root</code> of a <strong>binary search tree </strong>and an array <code>queries</code> of size <code>n</code> consisting of positive integers.</p>
+<h2><a href="https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree">Closest Nodes Queries in a Binary Search Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given the <code>root</code> of a <strong>binary search tree </strong>and an array <code>queries</code> of size <code>n</code> consisting of positive integers.</p>
 
 <p>Find a <strong>2D</strong> array <code>answer</code> of size <code>n</code> where <code>answer[i] = [min<sub>i</sub>, max<sub>i</sub>]</code>:</p>
 
