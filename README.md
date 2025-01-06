@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Siraj-786/leetcode_practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Siraj-786/leetcode_practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siraj-786/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Siraj-786/leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Siraj-786/leetcode_practice/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Siraj-786/leetcode_practice/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Siraj-786/leetcode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siraj-786/leetcode_practice/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Siraj-786/leetcode_practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siraj-786/leetcode_practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Siraj-786/leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Siraj-786/leetcode_practice/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Siraj-786/leetcode_practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2487-optimal-partition-of-string](https://github.com/Siraj-786/leetcode_practice/tree/master/2487-optimal-partition-of-string) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Siraj-786/leetcode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Siraj-786/leetcode_practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Siraj-786/leetcode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Siraj-786/leetcode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Siraj-786/leetcode_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/Siraj-786/leetcode_practice/tree/master/3427-special-array-ii) |
