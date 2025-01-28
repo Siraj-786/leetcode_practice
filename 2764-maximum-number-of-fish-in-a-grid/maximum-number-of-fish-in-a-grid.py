@@ -46,7 +46,7 @@ class Solution:
                 if grid[i][j]!=0 :
                     d[dsu.find(index(i,j))]+=grid[i][j]
         # return 0
-        print(dsu.parent)
+        # print(dsu.parent)
                     
         maxi=0 
         for ele in d :
