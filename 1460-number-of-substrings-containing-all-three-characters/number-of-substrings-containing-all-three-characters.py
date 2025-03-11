@@ -19,9 +19,9 @@ class Solution:
                 pre_c.append(i)
             else :
                 pre_c.append(pre_c[-1])
-        print(pre_a)
-        print(pre_b)
-        print(pre_c)
+        # print(pre_a)
+        # print(pre_b)
+        # print(pre_c)
         ans=0
         for i in range(len(s)) :
             if pre_a[i+1]!=-1 and pre_b[i+1]!=-1 and pre_c[i+1]!=-1 :
