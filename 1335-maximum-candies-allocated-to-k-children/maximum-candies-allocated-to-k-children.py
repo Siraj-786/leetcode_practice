@@ -1,24 +1,21 @@
 class Solution:
     def maximumCandies(self, candies: List[int], k: int) -> int:
-        if sum(candies)<k :
-            return 0 
-
-        def no_of_piles(arr,v):
+        def can_give(size,k):
             c=0 
-            for i in range(len(arr)):
-                c+=math.floor(arr[i]/v)
-            return c 
+            for i in range(len(candies)):
+                c+=candies[i]//size 
+            if c>=k :
+                return True 
+            return False 
 
-        l,r=1,10**9
-        while l<=r :
-            m=(l+r)//2
-            # a,b=l,r 
-            if no_of_piles(candies,m)>=k :
-                l=m +1
+        i=0
+        j=sum(candies)
+        while i<j :
+            mid=(i+j+1)//2
+            if can_give(mid,k):
+                i=mid
             else :
-                r=m-1 
-            # if l==a and r==b :
-            #     break 
-        return r 
-
+                j=mid-1
+            print(i,mid,j)
+        return i
         
